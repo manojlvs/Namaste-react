@@ -1,0 +1,33 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "just"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/manojlvs/Namaste-react)"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "postcss": "^8.4.35",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "js": "^0.1.0",
+    "node": "^21.7.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.1"
+  },
+  "browserslist": [
+    "last 2 version"
+  ]
+}

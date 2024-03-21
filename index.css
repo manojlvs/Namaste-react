@@ -1,6 +1,5 @@
-#heading{
-    color: red;
-}
-#manoj{
-    color: red;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;       
+
+
